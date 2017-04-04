@@ -33,7 +33,7 @@ const onStart = (doc) => {
     toggleAll(event);
   };
 
-  $('content').onclick = (event) => {
+  $('main').onclick = (event) => {
     if ($('menu').className.indexOf('active') !== -1) {
       toggleAll(event);
     }
