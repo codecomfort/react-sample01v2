@@ -25,7 +25,8 @@ const Main: StatelessComponent<IMainProps> = (props) => (
             react-one-hour-emai</a>(現在はメンテされいない)
         </li>
         <li>
-          <a href="https://purecss.io/layouts/side-menu/" target="_blank">Responsive Side Menu – Layout Examples – Pure</a>
+          <a href="https://purecss.io/layouts/side-menu/" target="_blank">Responsive Side Menu – Layout Examples –
+            Pure</a>
         </li>
         <li>小さくするとハンバーガーメニューが出現するレスポンシブデザイン</li>
         <li>上記に、Material-UI ボタンを追加</li>
