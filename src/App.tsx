@@ -2,11 +2,9 @@ import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import * as React from 'react';
 import {StatelessComponent} from 'react';
 const injectTapEventPlugin = require('react-tap-event-plugin');
-import './App.css';
 import Main from './components/Main';
 import Menu from './components/Menu';
 import MenuLink from './components/MenuLink';
-import './css/side-menu.css';
 
 injectTapEventPlugin();
 
