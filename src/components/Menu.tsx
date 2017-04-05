@@ -12,7 +12,7 @@ const Menu = () => <div id="menu">
         <a href="#" className="pure-menu-link">Home</a>
       </li>
       <li className="pure-menu-item">
-        <a href="#" className="pure-menu-link">About</a>
+        <a target="_blank" href="./About.html" className="pure-menu-link">About</a>
       </li>
       <li className="pure-menu-item menu-item-divided pure-menu-selected">
         <a href="#" className="pure-menu-link">Services</a>

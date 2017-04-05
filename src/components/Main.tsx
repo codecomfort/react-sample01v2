@@ -19,20 +19,6 @@ const Main: StatelessComponent<IMainProps> = (props) => (
     <div className="header">
       <h1>Page Title</h1>
       <h2>A subtitle for your page goes here</h2>
-      <ul>参考
-        <li>
-          <a href="https://github.com/petehunt/react-one-hour-email" target="_blank">
-            react-one-hour-emai</a>(現在はメンテされいない)
-        </li>
-        <li>
-          <a href="https://purecss.io/layouts/side-menu/" target="_blank">Responsive Side Menu – Layout Examples –
-            Pure</a>
-        </li>
-        <li>小さくするとハンバーガーメニューが出現するレスポンシブデザイン</li>
-        <li>上記に、Material-UI ボタンを追加</li>
-        <li>[2016.9．10] Recux サンプル実装を追加</li>
-        <li>[2017.4.4] TypeScript 化</li>
-      </ul>
     </div>
 
     <CustomBadge badgeContent={ props.value }/>
